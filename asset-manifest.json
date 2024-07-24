@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CryptoRanking/static/css/main.fd81d7e3.css",
+    "main.js": "/CryptoRanking/static/js/main.a8486458.js",
+    "static/js/453.be3306a4.chunk.js": "/CryptoRanking/static/js/453.be3306a4.chunk.js",
+    "index.html": "/CryptoRanking/index.html",
+    "main.fd81d7e3.css.map": "/CryptoRanking/static/css/main.fd81d7e3.css.map",
+    "main.a8486458.js.map": "/CryptoRanking/static/js/main.a8486458.js.map",
+    "453.be3306a4.chunk.js.map": "/CryptoRanking/static/js/453.be3306a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd81d7e3.css",
+    "static/js/main.a8486458.js"
+  ]
+}
